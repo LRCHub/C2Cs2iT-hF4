@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Icy Blue",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2026-01-03T14:39:25.020832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/01_Icy_Blue_Heart_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "John Hiatt",
+      "has_synced": false,
+      "path": "select/02_Icy_Blue_Heart_John_Hiatt.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/03_Icy_Blue_Heart_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Icy Blue",
+      "artist": "7 Year Bitch",
+      "has_synced": true,
+      "path": "select/04_Icy_Blue_7_Year_Bitch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/05_Icy_Blue_Heart_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Icy Blue",
+      "artist": "7 Year Bitch",
+      "has_synced": true,
+      "path": "select/06_Icy_Blue_7_Year_Bitch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "Hiatt, John",
+      "has_synced": true,
+      "path": "select/07_Icy_Blue_Heart_Hiatt,_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Icy Blue Heart",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/08_Icy_Blue_Heart_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Icy Blue Heart (LP Version)",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/09_Icy_Blue_Heart_(LP_Version)_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soul to Your Heart (Icy Blue Mix)",
+      "artist": "Eric C. Powell",
+      "has_synced": true,
+      "path": "select/10_Soul_to_Your_Heart_(Icy_Blue_Mix)_Eric_C._Powell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Icy Crucifixes",
+      "artist": "Nessly",
+      "has_synced": false,
+      "path": "select/11_Icy_Crucifixes_Nessly.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nightfall In Icy Forest",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/12_Nightfall_In_Icy_Forest_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Icy Hot (with Doja Cat)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/13_Icy_Hot_(with_Doja_Cat)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Icy Hot (feat. Doja Cat)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/14_Icy_Hot_(feat._Doja_Cat)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Icy Cold As Winter",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/15_Icy_Cold_As_Winter_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Icy Moon",
+      "artist": "Mastercastle",
+      "has_synced": false,
+      "path": "select/16_Icy_Moon_Mastercastle.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Icy",
+      "artist": "Kim Petras",
+      "has_synced": true,
+      "path": "select/17_Icy_Kim_Petras.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Beyond the Icy Rings of Saturn",
+      "artist": "Eugenio Finardi",
+      "has_synced": false,
+      "path": "select/18_Beyond_the_Icy_Rings_of_Saturn_Eugenio_Finardi.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Icy Colors Change",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/19_Icy_Colors_Change_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Icy Ivy",
+      "artist": "Who-ya Extended",
+      "has_synced": false,
+      "path": "select/20_Icy_Ivy_Who-ya_Extended.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Icy (feat. Gucci Mane)",
+      "artist": "Logic feat. Gucci Mane",
+      "has_synced": true,
+      "path": "select/21_Icy_(feat._Gucci_Mane)_Logic_feat._Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Icy (ft. Gucci Mane)",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/22_Icy_(ft._Gucci_Mane)_Logic.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Black Icy Stare",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/23_Black_Icy_Stare_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Icy Lake",
+      "artist": "Ronnie Montrose",
+      "has_synced": false,
+      "path": "select/24_Icy_Lake_Ronnie_Montrose.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Icy Blue (feat. 月乃)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_Icy_Blue_(feat._月乃)_Vivid_Lila.txt"
+    }
+  ]
+}
